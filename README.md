@@ -4,7 +4,7 @@
 
 ## Download
 
-### `git clone https://github.com/giftedstan/github-finder`
+`git clone https://github.com/giftedstan/github-finder`
 
 
 The app is currently live at.
